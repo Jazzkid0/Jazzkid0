@@ -1,5 +1,5 @@
-## Jonathan Knight 
+## Jazzkid
 
-Working on my final project for an MSc
+Looking for work rn
 
 Nvim btw, custom keyboard btw, soon to be Nix btw once I get some hardware.
